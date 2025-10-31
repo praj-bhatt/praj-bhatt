@@ -21,17 +21,18 @@ I am Praj Bhatt, an undergradute in the IT department, currently focused on expl
 
 My Socials:
 
-<div align="left">
+<p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>
   </a>
   <a href="https://x.com/bhattpraj" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="margin-right: 10px; vertical-align: middle;"/>
   </a>
   <a href="https://stackoverflow.com/users/31791173/praj-bhatt" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40" style="vertical-align: middle;"/>
   </a>
-</div>
+</p>
+
 
 
 
