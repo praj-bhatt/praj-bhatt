@@ -23,14 +23,14 @@ My Socials:
 
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://x.com/bhattpraj" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" width="40" height="40" style="margin-right: 10px;"/>
   </a>
   <a href="https://stackoverflow.com/users/31791173/praj-bhatt" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
-  <img src="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/octocat-galaxy.gif" width="250"/>
 </p>
+
 
