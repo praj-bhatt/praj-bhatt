@@ -2,18 +2,19 @@
 
 I am Praj Bhatt, an undergradute in the IT department, currently focused on exploring different tech domains along with practice in C and a bit of DSA.
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 25px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <!-- Holopin Board -->
-  <a href="https://holopin.io/@prajbhatt">
-    <img src="https://holopin.me/prajbhatt" alt="@prajbhatt's Holopin board"
-         style="width: 550px; max-width: 100%; border-radius: 10px;"/>
+  <a href="https://holopin.io/@prajbhatt" target="_blank">
+    <img src="https://holopin.me/prajbhatt"
+         alt="@prajbhatt's Holopin board"
+         style="width: 600px; max-width: 100%; border-radius: 10px;"/>
   </a>
 
-  <!-- Daftpunktocat GIF -->
+  <!-- Minimalistic Daftpunktocat GIF -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
        alt="Daftpunktocat Thomas"
-       style="width: 230px; height: auto; border-radius: 10px;"/>
+       style="width: 120px; height: auto; border-radius: 8px; opacity: 0.95;"/>
 </div>
 
 My Socials:
