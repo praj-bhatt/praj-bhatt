@@ -18,5 +18,8 @@ My Socials:
   </a>
   <img src="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/octocat-galaxy.gif" width="250"/>
 
+  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" alt="Daftpunktocat Thomas">
+
+
 </p>
 
