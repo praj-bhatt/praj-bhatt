@@ -2,7 +2,6 @@
 
 I am Praj Bhatt, an undergradute in the IT department, currently focused on exploring different tech domains along with practice in C and a bit of DSA.
 
-[![An image of @prajbhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajbhatt)](https://holopin.io/@prajbhatt)
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- Holopin Board -->
   <a href="https://holopin.io/@prajbhatt">
@@ -12,8 +11,6 @@ I am Praj Bhatt, an undergradute in the IT department, currently focused on expl
   <!-- Daftpunktocat GIF -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" alt="Daftpunktocat Thomas">
 </div>
-
-
 
 My Socials:
 
