@@ -16,5 +16,7 @@ My Socials:
   <a href="https://stackoverflow.com/users/31791173/praj-bhatt" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
+  <img src="https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/octocat-galaxy.gif" width="250"/>
+
 </p>
 
