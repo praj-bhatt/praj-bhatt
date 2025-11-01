@@ -17,11 +17,9 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<p align="center">
-  <img src="https://blog.flamingtext.com/blog/2025/11/01/flamingtext_com_1761991323_1052166276.png" 
-       alt="Socials" 
-       width="250">
-</p>
+<h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
+  Socials
+</h2>
 
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
