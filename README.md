@@ -17,7 +17,19 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<h2 align="center" style="font-size: 28px;">💬 My Socials:</h2>
+<h2 align="center" style="
+  font-size: 40px;
+  color: #ff7518;
+  text-shadow:
+    0 0 5px #ff7518,
+    0 0 10px #ff7518,
+    0 0 20px #ff4500,
+    0 0 30px #ff0000,
+    0 0 40px #ff0000;
+  font-family: 'Creepster', cursive;
+">
+  👻 My Socials 👻
+</h2>
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
