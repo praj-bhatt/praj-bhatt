@@ -29,7 +29,7 @@
   font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
   letter-spacing: 2px;
 ">
-  👻 M͟y͟ ͟S͟o͟c͟i͟a͟l͟s͟ 👻
+  Socials:
 </h2>
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
