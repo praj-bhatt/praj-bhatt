@@ -1,6 +1,6 @@
 ## Hello!
 
-I am Praj Bhatt, an undergradute in the IT department, currently focused on exploring different tech domains along with practice in C and a bit of DSA.
+[![](https://raw.githubusercontent.com/praj-bhatt/praj-bhatt/master/profile.gif)](https://www.adamalston.com/)
 
 <p align="center">
   <!-- Holopin Board -->
