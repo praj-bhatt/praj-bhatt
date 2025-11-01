@@ -38,12 +38,12 @@ My Socials:
 <div align="center">
 
 ### 🐙 GitHub Stats
-<a href="https://github.com/prajbhatt">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajbhatt&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+<a href="https://github.com/praj-bhatt">
+  <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
 </a>
 <br/>
-<a href="https://github.com/prajbhatt">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajbhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
+<a href="https://github.com/praj-bhatt">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
 </a>
 
 ---
