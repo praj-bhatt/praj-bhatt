@@ -1,5 +1,14 @@
-                                                                                                        ## Hello!
-
+<h2 align="center" style="
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 38px;
+  font-weight: bold;
+  color: #9e9eff;
+  text-shadow: 0 0 5px #9e9eff, 0 0 10px #7a7aff, 0 0 20px #4f4fff, 0 0 40px #2f2fff;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+">
+  Praj
+</h2>
 
 <p align="center">
   <!-- Holopin Board -->
