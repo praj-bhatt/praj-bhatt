@@ -33,26 +33,24 @@ My Socials:
   </a>
 </p>
 
-## 📈 My Coding Stats
+## 📊 My Coding Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-### 🐙 GitHub Stats
-<a href="https://github.com/praj-bhatt">
-  <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
-</a>
-<br/>
-<a href="https://github.com/praj-bhatt">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
-</a>
+  <!-- GitHub Stats -->
+  <div>
+    <h3>🐙 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
+  </div>
 
----
+  <!-- LeetCode Stats -->
+  <div>
+    <h3>💡 LeetCode Stats</h3>
+    <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" width="400" alt="LeetCode Stats"/>
+  </div>
 
-### 💡 LeetCode Stats
-<a href="https://leetcode.com/praj-bhatt/">
-  <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" width="400" alt="LeetCode Stats"/>
-</a>
-
----
+</div>
 
 
