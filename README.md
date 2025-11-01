@@ -7,7 +7,7 @@
   letter-spacing: 2px;
   margin-bottom: 20px;
 ">
-  Praj
+  Hello, Praj here!
 </h2>
 
 <p align="center">
