@@ -17,15 +17,10 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<h2 align="center" style="
-  font-family: 'Comic Sans MS', 'Trebuchet MS', cursive;
-  font-size: 38px;
-  color: #ff69b4;
-  text-shadow: 2px 2px 10px #ff1493;
-  letter-spacing: 2px;
-">
-   Socials
-</h2>
+<p align="center">
+  <img src="https://de23-engine.flamingtext.com/netfu/tmp28001/coollogo_com-30894184.png/mysocials.png" alt="My Socials" width="400">
+</p>
+
 
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
