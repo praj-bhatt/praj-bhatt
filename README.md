@@ -1,20 +1,21 @@
 ## Hello!
 
 
-<h3 align="center">🏅 My Holopin Badges</h3>
-
 <p align="center">
-  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/1" width="100" height="100"></a>
-  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/2" width="100" height="100"></a>
-  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/3" width="100" height="100"></a>
-</p>
+  <!-- Holopin Board -->
+  <a href="https://holopin.io/@prajbhatt" target="_blank">
+    <img src="https://holopin.me/prajbhatt"
+      alt="@prajbhatt's Holopin board"
+      width="600"
+      style="vertical-align: middle; border-radius: 10px;"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- small spacing between them -->
   <!-- Daftpunktocat GIF -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
-       alt="Daftpunktocat Thomas"
-       width="120"
-       style="vertical-align: middle; opacity: 0.95;"/>
+    alt="Daftpunktocat Thomas"
+    width="120"
+    style="vertical-align: middle; opacity: 0.95;"/>
 </p>
-
 
 My Socials:
 
