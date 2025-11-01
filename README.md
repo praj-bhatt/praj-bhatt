@@ -17,8 +17,12 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<a target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2025/11/01/flamingtext_com_1761990849_1052166275.png" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a>
-<br/>Logo Design by <a href="https://www.flamingtext.com/" >FlamingText.com</a>
+<p align="center">
+  <img src="https://blog.flamingtext.com/blog/2025/11/01/flamingtext_com_1761990849_1052166275.png" 
+       alt="Socials" 
+       width="250"
+       style="border-radius: 10px;">
+</p>
 
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
