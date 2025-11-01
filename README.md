@@ -1,12 +1,13 @@
 ## Hello!
 
 
-### 🎖 Holopin Badges
+<h3 align="center">🏅 My Holopin Badges</h3>
 
-[![Badge 1](https://holopin.me/prajbhatt/1)](https://holopin.io/@prajbhatt)
-[![Badge 2](https://holopin.me/prajbhatt/2)](https://holopin.io/@prajbhatt)
-[![Badge 3](https://holopin.me/prajbhatt/3)](https://holopin.io/@prajbhatt)
-
+<p align="center">
+  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/1" width="100" height="100"></a>
+  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/2" width="100" height="100"></a>
+  <a href="https://holopin.io/@prajbhatt"><img src="https://holopin.me/prajbhatt/3" width="100" height="100"></a>
+</p>
   <!-- Daftpunktocat GIF -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
        alt="Daftpunktocat Thomas"
