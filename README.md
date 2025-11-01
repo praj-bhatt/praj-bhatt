@@ -1,6 +1,5 @@
 ## Hello!
 
-[![](https://raw.githubusercontent.com/praj-bhatt/praj-bhatt/master/profile.gif)](https://www.adamalston.com/)
 
 <p align="center">
   <!-- Holopin Board -->
