@@ -16,7 +16,7 @@
     <img src="https://holopin.me/prajbhatt"
       alt="@prajbhatt's Holopin board"
       width="600"
-      style="vertical-align: middle; border-radius: 50px;"/>
+      style="vertical-align: middle; border-radius: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; <!-- small spacing between them -->
   <!-- Daftpunktocat GIF -->
