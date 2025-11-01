@@ -1,15 +1,12 @@
 ## Hello!
 
 
-<p align="center">
-  <!-- Holopin Board -->
-  <a href="https://holopin.io/@prajbhatt" target="_blank">
-    <img src="https://holopin.me/prajbhatt"
-         alt="@prajbhatt's Holopin board"
-         width="600"
-         style="vertical-align: middle; border-radius: 10px;"/>
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- small spacing between them -->
+### 🎖 Holopin Badges
+
+[![Badge 1](https://holopin.me/prajbhatt/1)](https://holopin.io/@prajbhatt)
+[![Badge 2](https://holopin.me/prajbhatt/2)](https://holopin.io/@prajbhatt)
+[![Badge 3](https://holopin.me/prajbhatt/3)](https://holopin.io/@prajbhatt)
+
   <!-- Daftpunktocat GIF -->
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
        alt="Daftpunktocat Thomas"
