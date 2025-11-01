@@ -29,7 +29,7 @@
   font-family: 'Creepster', cursive;
 ">
   👻 My Socials 👻
-</h2>
+</h2> <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
