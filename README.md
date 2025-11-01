@@ -33,7 +33,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 My Coding Stats</h2>
+<h2 align="center">Coding Stats</h2>
 
 <table align="center">
   <tr>
