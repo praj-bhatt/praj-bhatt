@@ -18,10 +18,9 @@
 </p>
 
 <p align="center">
-  <img src="https://blog.flamingtext.com/blog/2025/11/01/flamingtext_com_1761990849_1052166275.png" 
+  <img src="https://blog.flamingtext.com/blog/2025/11/01/flamingtext_com_1761991323_1052166276.png" 
        alt="Socials" 
-       width="250"
-       style="border-radius: 10px;">
+       width="250">
 </p>
 
 <p align="left">
