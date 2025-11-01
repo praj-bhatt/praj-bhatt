@@ -26,7 +26,7 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<p align="right">
+<p align="left">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="342" alt="Coding Room GIF">
 </p>
 
