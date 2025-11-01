@@ -35,20 +35,24 @@ My Socials:
 
 <h2 align="center">📊 My Coding Stats</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🐙 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>💡 LeetCode Stats</h3>
-      <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" width="400" alt="LeetCode Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- GitHub Card -->
+  <div style="border: 2px solid #1f6feb; border-radius: 10px; padding: 15px; width: 420px; box-shadow: 0 0 10px rgba(31,111,235,0.3);">
+    <h3 align="center">🐙 GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+    <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
+  </div>
+
+  <!-- LeetCode Card -->
+  <div style="border: 2px solid #ffa116; border-radius: 10px; padding: 15px; width: 420px; box-shadow: 0 0 10px rgba(255,161,22,0.3);">
+    <h3 align="center">💡 LeetCode Stats</h3>
+    <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" width="400" alt="LeetCode Stats"/>
+  </div>
+
+</div>
+
 
 
 
