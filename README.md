@@ -17,15 +17,7 @@
     style="vertical-align: middle; opacity: 0.95;"/>
 </p>
 
-<h2 align="center" style="
-  font-family: 'Trebuchet MS', sans-serif;
-  font-size: 40px;
-  font-weight: bold;
-  color: #00ffff;
-  text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff, 0 0 20px #00cccc, 0 0 40px #009999;
-  letter-spacing: 2px;
-  margin-bottom: 20px;
-">
+<h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
   Socials
 </h2>
 
