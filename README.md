@@ -33,27 +33,70 @@ My Socials:
   </a>
 </p>
 
-## 📈 My Coding Stats
+## 📊 My Coding Stats
 
 <div align="center">
 
-### 🐙 GitHub Stats
-<a href="https://github.com/praj-bhatt">
-  <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
-</a>
-<br/>
-<a href="https://github.com/praj-bhatt">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
-</a>
+<!-- Row container -->
+<table>
+  <tr>
 
----
+    <!-- GitHub: Stats & Top langs (card) -->
+    <td align="center" valign="top" width="50%" style="padding:10px;">
+      <strong>🐙 GitHub</strong>
+      <br/>
+      <a href="https://github.com/praj-bhatt" target="_blank">
+        <!-- Main stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Praj's GitHub stats" style="max-width:100%; width:420px;">
+      </a>
+      <br/>
+      <a href="https://github.com/praj-bhatt" target="_blank">
+        <!-- Top languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj-bhatt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" style="max-width:100%; width:420px; margin-top:8px;">
+      </a>
+      <br/>
+      <a href="https://github.com/praj-bhatt" target="_blank">
+        <!-- Streak -->
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=praj-bhatt&theme=tokyonight&hide_border=true" alt="GitHub Streak" style="max-width:100%; width:420px; margin-top:8px;">
+      </a>
+    </td>
 
-### 💡 LeetCode Stats
-<a href="https://leetcode.com/praj-bhatt/">
-  <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" width="400" alt="LeetCode Stats"/>
-</a>
+    <!-- Right column: LeetCode, HackerRank, Codeforces -->
+    <td align="center" valign="top" width="50%" style="padding:10px;">
 
----
+      <!-- LeetCode -->
+      <div style="margin-bottom:18px;">
+        <strong>💡 LeetCode</strong>
+        <br/>
+        <a href="https://leetcode.com/praj-bhatt/" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" style="max-width:100%; width:420px;">
+        </a>
+      </div>
+
+      <!-- HackerRank (profile link / badge) -->
+      <div style="margin-bottom:18px;">
+        <strong>🧠 HackerRank</strong>
+        <br/>
+        <a href="https://www.hackerrank.com/prajbhatt9" target="_blank" style="text-decoration:none;">
+          <img src="https://img.shields.io/badge/HackerRank-Profile-2EA44F?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
+        </a>
+      </div>
+
+      <!-- Codeforces -->
+      <div>
+        <strong>⚡ Codeforces</strong>
+        <br/>
+        <a href="https://codeforces.com/profile/prajbhatt" target="_blank">
+          <img src="https://raw.githubusercontent.com/kleo/CodeforcesStats/main/api/api?username=prajbhatt&theme=tokyonight" alt="Codeforces Stats" style="max-width:100%; width:420px;">
+        </a>
+      </div>
+
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 
 
