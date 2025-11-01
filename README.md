@@ -24,12 +24,13 @@
     0 0 5px #ff7518,
     0 0 10px #ff7518,
     0 0 20px #ff4500,
-    0 0 30px #ff0000,
     0 0 40px #ff0000;
-  font-family: 'Creepster', cursive;
+  font-weight: bold;
+  font-family: 'Trebuchet MS', 'Comic Sans MS', cursive;
+  letter-spacing: 2px;
 ">
-  👻 My Socials 👻
-</h2> <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
+  👻 M͟y͟ ͟S͟o͟c͟i͟a͟l͟s͟ 👻
+</h2>
 <p align="left">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
