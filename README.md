@@ -10,12 +10,6 @@
   Hello, Praj here!
 </h2>
 
-## 🟢 My Duolingo Progress
-
-This card updates automatically every day ✨  
-
-![Duolingo Streak](https://raw.githubusercontent.com/praj-bhatt/duolingo-streak-card/main/assets/streak_card.png)
-
 <p align="center">
   <!-- Holopin Board -->
   <a href="https://holopin.io/@prajbhatt" target="_blank">
