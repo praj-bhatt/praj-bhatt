@@ -58,7 +58,7 @@
     </td>
     <td align="center" width="50%">
       <h3>💡 LeetCode Stats</h3>
-      <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Aclonica&ext=heatmap" width="400" alt="LeetCode Stats"/>
+      <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Chenla&ext=heatmap" width="400" alt="LeetCode Stats"/>
     </td>
   </tr>
 </table>
