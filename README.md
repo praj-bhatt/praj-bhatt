@@ -7,7 +7,8 @@
   letter-spacing: 2px;
   margin-bottom: 20px;
 ">
-  Hello, Praj here!
+<img width="2125" height="575" alt="readme banner" src="https://github.com/user-attachments/assets/e6de5f84-6284-4fde-a986-9b2e9e67244b" />
+
 </h2>
 
 <p align="center">
