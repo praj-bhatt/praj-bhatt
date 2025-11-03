@@ -8,9 +8,9 @@
   margin-bottom: 20px;
 ">
 <img width="2125" height="575" alt="readme banner" src="https://github.com/user-attachments/assets/e6de5f84-6284-4fde-a986-9b2e9e67244b" />
+</h2>
 
 I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalaya, and am currently working on improving my skills relevant to the field in which I am working and also sometimes keep an eye on the advancement in technology and the world of AI, if you want to connect with me, my socials are given below!
-</h2>
 
 <p align="center">
   <!-- Holopin Board -->
