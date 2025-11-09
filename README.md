@@ -38,7 +38,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
   Socials
 </h2>
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
