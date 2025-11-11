@@ -40,7 +40,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 
 <p align="center">
   <a href="https://instagram.com/bhattpraj" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://linkedin.com/in/praj-bhatt" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
