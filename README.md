@@ -58,13 +58,13 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>🙋‍♂️ GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+      <h3> GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=prajbhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
       <br/>
       <img src="https://streak-stats.demolab.com/?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
     </td>
     <td align="center" width="50%">
-      <h3>💡 LeetCode Stats</h3>
+      <h3> LeetCode Stats</h3>
       <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Chenla&ext=heatmap" width="400" alt="LeetCode Stats"/>
     </td>
   </tr>
