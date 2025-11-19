@@ -8,7 +8,8 @@
   margin-bottom: 20px;
 ">
 
-![Recording 2025-11-07 215912](https://github.com/user-attachments/assets/867e618f-8a72-49f6-86a4-cf12ae6e92db)
+![Recording 2025-11-19 170756](https://github.com/user-attachments/assets/740ead5c-5a78-48d0-a862-f530871b9c2b)
+
 
 </h2>
 
