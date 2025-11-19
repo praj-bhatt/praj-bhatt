@@ -8,7 +8,8 @@
   margin-bottom: 20px;
 ">
 
-![Recording 2025-11-19 170756](https://github.com/user-attachments/assets/740ead5c-5a78-48d0-a862-f530871b9c2b)
+
+![Screen Recording 2025-11-19 170745](https://github.com/user-attachments/assets/1ed4e763-d7dd-480a-b249-83e3f2dae7c9)
 
 
 </h2>
