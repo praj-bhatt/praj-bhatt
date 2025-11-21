@@ -39,7 +39,9 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 
 ##   GitHub Achievements and Graph 
 
+<p align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=praj-bhatt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praj-bhatt&theme=tokyo-night&hide_border=true" width="95%"/>
