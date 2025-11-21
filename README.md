@@ -85,8 +85,6 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 
 <a href="https://github.com/praj-bhatt">
     <p align="center">
-      <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=praj-bhatt&show_icons=true&theme=dark&hide_border=true" />
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=<praj-bhatt&theme=dark&hide_border=true" />
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praj-bhatt&theme=dark&hide_border=true"/>
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praj-bhatt&theme=dark&hide_border=true"/>
       <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=praj-bhatt&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
