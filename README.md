@@ -72,7 +72,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
   <tr>
     <td align="center" width="50%">
       <h3> GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=praj-bhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=prajbhatt&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats"/>
       <br/>
       <img src="https://streak-stats.demolab.com/?user=praj-bhatt&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak"/>
     </td>
