@@ -72,9 +72,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
   <tr>
     <td align="center" width="400">
       <h3> GitHub Stats</h3>
-      <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=praj-bhatt&theme=dark" alt="GitHub Streak"/>
-      </a>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praj-bhatt&theme=halloween&hide_border=true&border_radius=6.4&card_height=295" alt="GitHub Streak" /></a>
     </td>
     <td align="center" width="50%">
       <h3> LeetCode Stats</h3>
