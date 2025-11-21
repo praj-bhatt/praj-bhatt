@@ -37,11 +37,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="342" alt="Coding Room GIF">
 </p>
 
-##   GitHub Achievements and Graph 
-
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=praj-bhatt&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
+##   GitHub Graph 
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=praj-bhatt&theme=tokyo-night&hide_border=true" width="95%"/>
