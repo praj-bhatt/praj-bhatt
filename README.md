@@ -34,8 +34,12 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 </p>
 
 <p align="left">
-  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="442" alt="Coding Room GIF">       <p align="right"> <img src="https://leetcode-badge-showcase.vercel.app/api?username=praj-bhatt&theme=transparent&border=no-border&animated=true" width="442" alt="LeetCode Badges"> </p>
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="442" alt="Coding Room GIF">  
 </p>
+
+  <p align="center"> 
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=praj-bhatt&theme=transparent&border=no-border&animated=true" width="442" alt="LeetCode Badges"> 
+  </p>
 
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
  Github Graph
