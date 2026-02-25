@@ -76,7 +76,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
     </td>
     <td align="center" width="50%">
       <h3> LeetCode Stats</h3>
-      <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Chenla&ext=heatmap" width="400" alt="LeetCode Stats"/>
+      <img src="https://leetcard.jacoblin.cool/praj-bhatt?theme=dark&font=Roboto%20Mono&ext=heatmap" width="400" alt="LeetCode Stats"/>
     </td>
   </tr>
 </table>
