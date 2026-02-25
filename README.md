@@ -34,7 +34,7 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 </p>
 
 <p align="center"> 
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=zanj0&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /> 
+    <img src = "https://leetcode-badge-showcase.vercel.app/api?username=zanj0&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /> 
 </p>
 
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
