@@ -37,6 +37,15 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=praj-bhatt&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /> 
 </p>
 
+<!-- Chess.com Puzzle Rating -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/praj-bhatt/chesscom-puzzle-rating-tracker/main/assets/puzzle-rating.png"
+    alt="Chess.com All-Time Puzzle Rating"
+    width="900"/>
+  
+</p>
+
 </dev>
 
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
