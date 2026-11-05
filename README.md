@@ -37,14 +37,6 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=praj-bhatt&theme=github-dark&border=no-border&animated=true" alt="LeetCode Badges" /> 
 </p>
 
-<h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
- Github Graph
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=praj-bhatt&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
 </dev>
 
 <h2 align="center" style="font-family: 'Trebuchet MS', sans-serif; font-size: 36px; font-weight: bold; color: #ffffff; letter-spacing: 2px;">
