@@ -86,8 +86,6 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
     <p align="center">
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=praj-bhatt&theme=dark&hide_border=true"/>
       <img heigth="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=praj-bhatt&theme=dark&hide_border=true"/>
-      
-    </p>
   </a>
   
 </div>
