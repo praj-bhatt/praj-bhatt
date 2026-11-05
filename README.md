@@ -40,10 +40,10 @@ I am an undergrad student in the IT department at Birla Vishvakarma Mahavidyalay
 <!-- Chess.com Puzzle Rating -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/praj-bhatt/chesscom-puzzle-rating-tracker/main/assets/puzzle-rating.png"
-    alt="Chess.com All-Time Puzzle Rating"
-    width="900"/>
-  
+    src="https://raw.githubusercontent.com/praj-bhatt/chesstracker/main/assets/puzzle-rating.png"
+    alt="Puzzle Rating"
+    width="900"
+  />
 </p>
 
 </dev>
